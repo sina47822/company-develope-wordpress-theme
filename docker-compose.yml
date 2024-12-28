@@ -67,6 +67,7 @@ services:
     volumes:
       - ./wordpress:/var/www/html
       - ./src:/var/www/html/wp-content
+    user: "1000:1000" # user UID:GID
     networks:
       - internal
 

@@ -54,3 +54,12 @@ src/plugins/persian-woocommerce/
 src/uploads/
 src/plugins/persian-woocommerce-not/
 src/plugins/breadcrumb-navxt/
+wordpress/
+src/plugins/akismet/
+src/plugins/hello.php
+src/plugins/index.php
+src/languages/
+src/themes/twentytwentyfour/
+src/themes/twentytwentythree/
+src/themes/twentytwentytwo/
+src/plugins/
