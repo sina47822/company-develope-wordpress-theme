@@ -1,3 +1,16 @@
-# start project for a company named 'hani adib azad' personal website for his company about bussiness coachin for person's or companies
-# this website would created by wordpress and use mysql for database and docker and nginx
-# for this blog resume personal blog i need to evelope a personal theme and not use ordinary themes that is heavy to load 
+for run in local you need to use docker in your system
+but first clone the project
+```
+git@github.com:sina47822/company-develope-wordpress-theme.git
+```
+then
+```
+docker compose up --build
+```
+you need to use these plugins below in wordpress
+--> elementor
+--> 7 form
+
+but through the project it used acf pro and cmb2
+
+for all things work better you need to import acf from acf-import folder
